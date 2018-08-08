@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="054c6282-3451-4ec9-800d-2eb840d3468a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-unformatted--events.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-unformatted--events.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/behat/mink" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Driver/CoreDriverTest.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Element/DocumentElementTest.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Element/ElementTest.php" beforeDir="false" />
@@ -23,6 +26,7 @@
       <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/fixtures/test.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/SessionTest.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/WebAssertTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/drupal/coder" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/ArrayUnitTest.inc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/ArrayUnitTest.inc.fixed" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/ArrayUnitTest.php" beforeDir="false" />
@@ -313,13 +317,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="theme" value="20" />
-          <entry key="twig" value="575" />
+          <entry key="twig" value="583" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PHP" value="20" />
-          <entry key="Twig" value="575" />
+          <entry key="Twig" value="583" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -344,8 +348,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-unformatted--events.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="585">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -895,12 +899,12 @@
       <workItem from="1533716591932" duration="274000" />
       <workItem from="1533720636910" duration="3024000" />
       <workItem from="1533731946549" duration="475000" />
-      <workItem from="1533732444758" duration="2641000" />
+      <workItem from="1533732444758" duration="2983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83300000" />
+    <option name="totallyTimeSpent" value="83642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1252,8 +1256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-unformatted--events.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="585">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
