@@ -1,280 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="054c6282-3451-4ec9-800d-2eb840d3468a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-unformatted--events.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-unformatted--events.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/behat/mink" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Driver/CoreDriverTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Element/DocumentElementTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Element/ElementTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Element/NodeElementTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ElementExceptionTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ElementHtmlExceptionTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ElementNotFoundExceptionTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ElementTextExceptionTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ExpectationExceptionTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ResponseTextExceptionTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/MinkTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/CssSelectorTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/ExactNamedSelectorTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/NamedSelectorTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/PartialNamedSelectorTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/SelectorsHandlerTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/Xpath/EscaperTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/Xpath/ManipulatorTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/fixtures/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/SessionTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/WebAssertTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/drupal/coder" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/ArrayUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/ArrayUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/ArrayUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/DisallowLongArraySyntaxUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d7/DisallowLongArraySyntaxUnitTest.1.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d7/disallow_long_array_d7.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d8/DisallowLongArraySyntaxUnitTest.2.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d8/DisallowLongArraySyntaxUnitTest.2.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d8/disallow_long_array_d8.info.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassCreateInstanceUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassCreateInstanceUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassCreateInstanceUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassDeclarationUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassDeclarationUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassDeclarationUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/FullyQualifiedNamespaceUnitTest.api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/FullyQualifiedNamespaceUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/FullyQualifiedNamespaceUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/FullyQualifiedNamespaceUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/PropertyDeclarationUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/PropertyDeclarationUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/PropertyDeclarationUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UnusedUseStatementUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UnusedUseStatementUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UnusedUseStatementUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UseLeadingBackslashUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UseLeadingBackslashUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UseLeadingBackslashUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/CoderSniffUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/ClassCommentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/ClassCommentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/ClassCommentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DataTypeNamespaceUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DataTypeNamespaceUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DataTypeNamespaceUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentAlignmentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentAlignmentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentAlignmentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.1.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.1.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.1.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.1.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.2.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.2.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.1.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.1.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.10.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.10.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.11.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.11.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.12.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.12.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.2.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.2.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.3.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.3.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.4.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.4.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.5.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.5.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.6.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.6.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.7.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.7.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.8.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.8.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.9.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.9.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.1.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.1.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.2.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.2.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/InlineCommentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/InlineCommentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/InlineCommentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.1.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.1.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.2.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.2.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/VariableCommentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/VariableCommentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/VariableCommentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ControlSignatureUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ControlSignatureUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ControlSignatureUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ElseIfUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ElseIfUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ElseIfUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.good.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.good.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.none.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.none.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.two.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.two.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/FileEncodingUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/FileEncodingUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/LineLengthUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/LineLengthUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/MultipleStatementAlignmentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/MultipleStatementAlignmentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/MultipleStatementAlignmentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/SpaceUnaryOperatorUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/SpaceUnaryOperatorUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/SpaceUnaryOperatorUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/AutoAddedKeysUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/ClassFilesUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/DuplicateEntryUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/class_files.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/test.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/test.info.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/trait.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/NamingConventions/ValidFunctionNameUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/NamingConventions/ValidFunctionNameUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/NamingConventions/ValidVariableNameUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/NamingConventions/ValidVariableNameUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Scope/MethodScopeUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Scope/MethodScopeUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Scope/MethodScopeUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/ConstantNameUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/FunctionTUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/FunctionTUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/FunctionWatchdogUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/FunctionWatchdogUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/constant_test.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/constant_test.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CloseBracketSpacingUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CloseBracketSpacingUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CloseBracketSpacingUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CommaUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CommaUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/NamespaceUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/NamespaceUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/NamespaceUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorIndentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorIndentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorIndentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorSpacingUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorSpacingUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorSpacingUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenBracketSpacingUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenBracketSpacingUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenBracketSpacingUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.1.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.1.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.2.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.2.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.3.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.3.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ScopeIndentUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ScopeIndentUnitTest.inc.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ScopeIndentUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/BadUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.php.fixed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad2.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/GoodUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/LongNamespace.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.features.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/phpunit-bootstrap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/CodeAnalysis/VariableAnalysisUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/CodeAnalysis/VariableAnalysisUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/AuthorTagUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/AuthorTagUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/CommentEmptyLineUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/CommentEmptyLineUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/ExpectedExceptionUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/ExpectedExceptionUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/GlobalConstantUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/GlobalConstantUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/GlobalDefineUnitTest.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/GlobalDefineUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/test.info.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/CheckPlainUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/CheckPlainUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/CurlSslVerifierUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/CurlSslVerifierUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DbQueryUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DbQueryUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DbSelectBracesUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DbSelectBracesUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DefaultValueSanitizeUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DefaultValueSanitizeUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/TCheckPlainUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/TCheckPlainUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/VariableSetSanitizeUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/VariableSetSanitizeUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/dbquerytest.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/AccessHookMenuUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/FormAlterDocUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/HookInitCssUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/InstallTSniffUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/test.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/test.install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/test.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/OptionsTUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/OptionsTUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/VariableNameUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/VariableNameUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/test.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/InfoFiles/NamespacedDependencyUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/InfoFiles/dependencies_test.info.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalClassUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalClassUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalDrupalUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalDrupalUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalFunctionUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalFunctionUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/UnusedPrivateMethodUnitTest.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/UnusedPrivateMethodUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/src/ExampleService.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/testmodule.services.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/ProjectUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/modules/drupal6/nested/test.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/modules/drupal6/testmodule.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/modules/drupal7/testmodule.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/modules/drupal8/testmodule.info.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Yaml/RoutingAccessUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Yaml/routing_access_test.routing.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/good/GoodUnitTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/good/good.php" beforeDir="false" />
-    </list>
+    <list default="true" id="054c6282-3451-4ec9-800d-2eb840d3468a" name="Default" comment="views commit" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,11 +45,13 @@
         <counts>
           <entry key="theme" value="20" />
           <entry key="twig" value="583" />
+          <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PHP" value="20" />
+          <entry key="PLAIN_TEXT" value="14" />
           <entry key="Twig" value="583" />
         </counts>
       </usages-collector>
@@ -899,12 +628,20 @@
       <workItem from="1533716591932" duration="274000" />
       <workItem from="1533720636910" duration="3024000" />
       <workItem from="1533731946549" duration="475000" />
-      <workItem from="1533732444758" duration="2983000" />
+      <workItem from="1533732444758" duration="3217000" />
     </task>
+    <task id="LOCAL-00001" summary="views commit">
+      <created>1533741251506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533741251506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83642000" />
+    <option name="totallyTimeSpent" value="83876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -923,7 +660,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -955,8 +692,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="views commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="views commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
