@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="054c6282-3451-4ec9-800d-2eb840d3468a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Driver/CoreDriverTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Element/DocumentElementTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Element/ElementTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Element/NodeElementTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ElementExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ElementHtmlExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ElementNotFoundExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ElementTextExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ExpectationExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Exception/ResponseTextExceptionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/MinkTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/CssSelectorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/ExactNamedSelectorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/NamedSelectorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/PartialNamedSelectorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/SelectorsHandlerTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/Xpath/EscaperTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/Xpath/ManipulatorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/Selector/fixtures/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/SessionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/behat/mink/tests/WebAssertTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/ArrayUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/ArrayUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/ArrayUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/DisallowLongArraySyntaxUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d7/DisallowLongArraySyntaxUnitTest.1.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d7/disallow_long_array_d7.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d8/DisallowLongArraySyntaxUnitTest.2.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d8/DisallowLongArraySyntaxUnitTest.2.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Array/disallow_long_array_d8/disallow_long_array_d8.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassCreateInstanceUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassCreateInstanceUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassCreateInstanceUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassDeclarationUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassDeclarationUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/ClassDeclarationUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/FullyQualifiedNamespaceUnitTest.api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/FullyQualifiedNamespaceUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/FullyQualifiedNamespaceUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/FullyQualifiedNamespaceUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/PropertyDeclarationUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/PropertyDeclarationUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/PropertyDeclarationUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UnusedUseStatementUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UnusedUseStatementUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UnusedUseStatementUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UseLeadingBackslashUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UseLeadingBackslashUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Classes/UseLeadingBackslashUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/CoderSniffUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/ClassCommentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/ClassCommentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/ClassCommentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DataTypeNamespaceUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DataTypeNamespaceUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DataTypeNamespaceUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentAlignmentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentAlignmentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentAlignmentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.1.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.1.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentStarUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.1.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.1.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.2.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.2.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/DocCommentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.1.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.1.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.10.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.10.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.11.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.11.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.12.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.12.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.2.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.2.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.3.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.3.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.4.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.4.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.5.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.5.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.6.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.6.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.7.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.7.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.8.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.8.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.9.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.9.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FileCommentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.1.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.1.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.2.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.2.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/FunctionCommentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/InlineCommentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/InlineCommentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/InlineCommentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.1.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.1.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.2.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.2.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/PostStatementCommentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/VariableCommentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/VariableCommentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Commenting/VariableCommentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ControlSignatureUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ControlSignatureUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ControlSignatureUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ElseIfUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ElseIfUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/ControlStructures/ElseIfUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.good.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.good.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.none.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.none.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.two.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/EndFileNewlineUnitTest.two.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/FileEncodingUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/FileEncodingUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/LineLengthUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Files/LineLengthUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/MultipleStatementAlignmentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/MultipleStatementAlignmentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/MultipleStatementAlignmentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/SpaceUnaryOperatorUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/SpaceUnaryOperatorUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Formatting/SpaceUnaryOperatorUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/AutoAddedKeysUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/ClassFilesUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/DuplicateEntryUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/class_files.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/test.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/test.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/InfoFiles/trait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/NamingConventions/ValidFunctionNameUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/NamingConventions/ValidFunctionNameUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/NamingConventions/ValidVariableNameUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/NamingConventions/ValidVariableNameUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Scope/MethodScopeUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Scope/MethodScopeUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Scope/MethodScopeUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/ConstantNameUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/FunctionTUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/FunctionTUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/FunctionWatchdogUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/FunctionWatchdogUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/constant_test.install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/Semantics/constant_test.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CloseBracketSpacingUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CloseBracketSpacingUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CloseBracketSpacingUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CommaUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/CommaUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/NamespaceUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/NamespaceUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/NamespaceUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorIndentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorIndentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorIndentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorSpacingUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorSpacingUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ObjectOperatorSpacingUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenBracketSpacingUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenBracketSpacingUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenBracketSpacingUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.1.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.1.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.2.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.2.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.3.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.3.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/OpenTagNewlineUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ScopeIndentUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ScopeIndentUnitTest.inc.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/WhiteSpace/ScopeIndentUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/BadUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad/bad.php.fixed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/bad2.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/GoodUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/LongNamespace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.features.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.tpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/good/good.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/Drupal/Test/phpunit-bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/CodeAnalysis/VariableAnalysisUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/CodeAnalysis/VariableAnalysisUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/AuthorTagUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/AuthorTagUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/CommentEmptyLineUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/CommentEmptyLineUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/ExpectedExceptionUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Commenting/ExpectedExceptionUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/GlobalConstantUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/GlobalConstantUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/GlobalDefineUnitTest.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/GlobalDefineUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Constants/test.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/CheckPlainUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/CheckPlainUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/CurlSslVerifierUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/CurlSslVerifierUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DbQueryUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DbQueryUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DbSelectBracesUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DbSelectBracesUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DefaultValueSanitizeUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/DefaultValueSanitizeUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/TCheckPlainUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/TCheckPlainUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/VariableSetSanitizeUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/VariableSetSanitizeUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionCalls/dbquerytest.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/AccessHookMenuUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/FormAlterDocUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/HookInitCssUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/InstallTSniffUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/test.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/test.install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/FunctionDefinitions/test.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/OptionsTUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/OptionsTUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/VariableNameUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/VariableNameUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/General/test.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/InfoFiles/NamespacedDependencyUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/InfoFiles/dependencies_test.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalClassUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalClassUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalDrupalUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalDrupalUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalFunctionUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/GlobalFunctionUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/UnusedPrivateMethodUnitTest.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/UnusedPrivateMethodUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/src/ExampleService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Objects/testmodule.services.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/ProjectUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/modules/drupal6/nested/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/modules/drupal6/testmodule.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/modules/drupal7/testmodule.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/ProjectDetection/modules/drupal8/testmodule.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Yaml/RoutingAccessUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/Yaml/routing_access_test.routing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/good/GoodUnitTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drupal/coder/coder_sniffer/DrupalPractice/Test/good/good.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="8">
+    <drupalPath>$PROJECT_DIR$</drupalPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1178086419">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="2" />
+          <entry key="php" value="1" />
+          <entry key="theme" value="1" />
+          <entry key="twig" value="8" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="2" />
+          <entry key="PHP" value="2" />
+          <entry key="Twig" value="8" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="theme" value="20" />
+          <entry key="twig" value="575" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="20" />
+          <entry key="Twig" value="575" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.php.new.class" />
+      <usages-collector id="statistics.php.composer.command.options" />
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.php.rename.constructor" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../emulsify/templates/views/views-view-unformatted--frontpage.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="26" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-unformatted--events.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/03-image/image.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/block/block--homebanner.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="86" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/three-column-block/three-column-block.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/three-column-block/three-column-block.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/drupalcamp.theme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../emulsify/components/_patterns/02-molecules/card/01-card.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="61" column="3" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../emulsify/components/_patterns/03-organisms/card-grid/card-grid.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cleanPublic</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/themes/custom/drupalcamp/components</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/02-lists/menu-list.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/04-images/image.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/04-images/image.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/03-text/paragraph/paragraph.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/03-text/paragraph/paragraph.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/branding-block/branding-block.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/text-button-block/text-button.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/text-button-block/text-button.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/css/style.css" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/header/header.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/branding-block/branding-block.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/text-button/text-button.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/text-button/text-button.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/02-text/02-paragraph/paragraph.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/02-text/02-paragraph/paragraph.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/03-image/image.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/three-column-block/three-column-block~events.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/03-image/image.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/drupalcamp.info.yml" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/templates/layout/page.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/templates/layout/region--header-bottom.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/02-text/01-headings/_heading.scss" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/sass/style.scss" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/gulpfile.js" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/menu-block/menu-block.twig" />
+        <option value="$PROJECT_DIR$/../drupal-website/themes/custom/drupalcamp/sass/style.scss" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/banner-block/banner-block.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/header-bottom/header-bottom.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/banner-block/banner-block.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/text-button-block/text-button-block.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/two-column-text-image-block/two-column-text-image-block~speaker.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/two-column-text-image-block/two-column-text-image-block~speaker.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/04-templates/home/home.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_meta/_00-head.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/drupalcamp.libraries.yml" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/two-column-text-image-block/two-column-text-image-block.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/templates/block/block--homebanner.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/templates/block/block--system-branding-block.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/templates/block/block--speker.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/02-text/01-headings/heading.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/02-text/01-headings/heading.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/text-heading/text-heading.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/text-heading/text-heading.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/two-column-text-image-block/two-column-text-image-block.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/three-column-block/three-column-block.json" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/sass/style.scss" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/templates/block/block--views-block--events-block-1.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/drupalcamp.theme" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/three-column-block/three-column-block.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-fields--events--block_1.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-unformatted--events.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/themes/custom/drupalcamp/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/core/assets/vendor/jquery.ui/package.json" />
+      <path value="$PROJECT_DIR$/core/package.json" />
+      <path value="$PROJECT_DIR$/themes/contrib/bear_skin/components/vendor/scss/breakpoint/package.json" />
+      <path value="$PROJECT_DIR$/themes/contrib/bear_skin/components/vendor/scss/sassline/package.json" />
+      <path value="$PROJECT_DIR$/themes/contrib/bear_skin/package.json" />
+      <path value="$PROJECT_DIR$/themes/contrib/gesso/package.json" />
+      <path value="$PROJECT_DIR$/themes/custom/drupalcamp/components/vendor/pattern-lab/styleguidekit-assets-default/package.json" />
+      <path value="$PROJECT_DIR$/themes/custom/drupalcamp/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="1244d8db-0efd-41ef-a05d-81555fda8090" name="localhost" port="8888" />
+    </servers>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="theme" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-feed" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony-cmf/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/composer-merge-plugin" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/easyrdf/easyrdf" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/jcalderonzumba/mink-phantomjs-driver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/jcalderonzumba/gastonjs" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/instaclick/php-webdriver" />
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/mikey179/vfsStream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/fabpot/goutte" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink-selenium2-driver" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink-goutte-driver" />
+      <path value="$PROJECT_DIR$/vendor/drupal/coder" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink-browserkit-driver" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="stable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="stable" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="stable" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="01-atoms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="01-atoms" type="462c0819:PsiDirectoryNode" />
+              <item name="02-text" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="01-atoms" type="462c0819:PsiDirectoryNode" />
+              <item name="02-text" type="462c0819:PsiDirectoryNode" />
+              <item name="01-headings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="01-atoms" type="462c0819:PsiDirectoryNode" />
+              <item name="03-image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="02-molecules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="02-molecules" type="462c0819:PsiDirectoryNode" />
+              <item name="text-heading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="03-organisms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="03-organisms" type="462c0819:PsiDirectoryNode" />
+              <item name="three-column-block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/templates/views" />
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/templates/block" />
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/two-column-text-image-block" />
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/templates/layout" />
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/menu-block" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/menu-block" />
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules" />
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms" />
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/menu-main" />
+      <recent name="$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/branding-block" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="drupal_pattern" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="054c6282-3451-4ec9-800d-2eb840d3468a" name="Default" comment="" />
+      <created>1533021342181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533021342181</updated>
+      <workItem from="1533021344883" duration="28730000" />
+      <workItem from="1533191939206" duration="2625000" />
+      <workItem from="1533195786852" duration="801000" />
+      <workItem from="1533198750380" duration="32621000" />
+      <workItem from="1533627579617" duration="5201000" />
+      <workItem from="1533638702981" duration="94000" />
+      <workItem from="1533653085391" duration="11000" />
+      <workItem from="1533656019758" duration="980000" />
+      <workItem from="1533658242324" duration="173000" />
+      <workItem from="1533660697645" duration="147000" />
+      <workItem from="1533660865827" duration="75000" />
+      <workItem from="1533660977809" duration="489000" />
+      <workItem from="1533661526946" duration="1783000" />
+      <workItem from="1533663374325" duration="1399000" />
+      <workItem from="1533708939193" duration="275000" />
+      <workItem from="1533711188595" duration="53000" />
+      <workItem from="1533711261009" duration="1429000" />
+      <workItem from="1533716591932" duration="274000" />
+      <workItem from="1533720636910" duration="3024000" />
+      <workItem from="1533731946549" duration="475000" />
+      <workItem from="1533732444758" duration="2641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83300000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32969698" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/themes/custom/drupalcamp/drupalcamp.theme</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/contrib/gesso/_starter-kit/_patterns/02-layouts/regions/navigation/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/gesso/_starter-kit/_patterns/03-components/menu/menu--main/menu--main.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/gesso/_starter-kit/_patterns/03-components/menu/menu.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emulsify/components/_patterns/01-atoms/02-text/00-headings/_heading.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/gesso/_starter-kit/_patterns/03-components/menu/menu--main/menu--main.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/gesso/_starter-kit/_patterns/03-components/menu/menu.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emulsify/components/_patterns/01-atoms/02-text/00-headings/headings.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emulsify/components/_patterns/01-atoms/02-text/00-headings/heading~xl-link.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/banner-block/banner-block.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_meta/_00-head.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emulsify/templates/content/page-title.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16095">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/drupalcamp.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/drupalcamp.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/banner-block/banner-block.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/branding-block/branding-block.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/branding-block/branding-block.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/04-templates/home/home.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/bear_skin/templates/03-organisms/region--header.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/bear_skin/templates/03-organisms/region--sidebar_first.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/bear_skin/templates/03-organisms/region.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/bear_skin/templates/03-organisms/node.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/02-text/01-headings/_heading.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/two-column-text-image-block/two-column-text-image-block.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/02-text/01-headings/heading.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/02-text/01-headings/heading.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../drupal-website/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/two-column-text-image-block/two-column-text-image-block.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/03-image/image.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/text-heading/text-heading.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/02-molecules/text-heading/text-heading.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/classy/templates/views/views-view.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/classy/templates/views/views-view-unformatted.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/block/block--speker.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/block/block--system-branding-block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emulsify/components/_patterns/02-molecules/card/card.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emulsify/templates/block/block.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/Drupal/Core/Theme/ThemeManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="285" column="54" lean-forward="true" selection-start-line="285" selection-start-column="54" selection-end-line="285" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/block/block--views-block--events-block-1.html.twig" />
+    <entry file="file://$PROJECT_DIR$/../emulsify/components/_patterns/03-organisms/card-grid/card-grid.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emulsify/components/_patterns/02-molecules/card/01-card.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="3" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emulsify/components/_patterns/03-organisms/card-grid/card-grid.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/three-column-block/three-column-block.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/drupalcamp.theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/block/block--homebanner.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="86" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emulsify/templates/views/views-view-unformatted--frontpage.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/03-organisms/three-column-block/three-column-block.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/components/source/_patterns/01-atoms/03-image/image.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-fields--events--block_1.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/drupalcamp/templates/views/views-view-unformatted--events.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

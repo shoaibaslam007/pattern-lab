@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      {% include "@molecules/text-heading/text-heading.twig"
+        with{
+          "heading_level": 3,
+          "heading": heading,
+          "paragraph_content": paragraph_content
+        }
+      %}
+    </div>
+    <div class="col-md-6">
+      {% include "@atoms/03-image/image.twig"
+        with{
+          "image_url": image_url,
+          "image_alt": "Tim Cook Bro"
+        }
+      %}
+    </div>
+  </div>
+</div>
+

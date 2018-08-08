@@ -1,0 +1,33 @@
+name: Drupal Camp Pune
+description: This theme is made using Pattern Lab v2.
+type: theme
+core: 8.x
+base theme: classy
+
+libraries:
+  - drupalcamp/global-styling
+  - drupalcamp/global-js
+  - drupalcamp/global-font
+
+regions:
+  header: Header
+  header_bottom: Header Bottom (Banner)
+  content: Main Content
+  footer: Footer
+
+component-libraries:
+  atoms:
+    paths:
+      - components/source/_patterns/01-atoms
+  molecules:
+    paths:
+      - components/source/_patterns/02-molecules
+  organisms:
+    paths:
+      - components/source/_patterns/03-organisms
+  templates:
+    paths:
+      - components/source/_patterns/04-templates
+  pages:
+    paths:
+      - components/source/_patterns/05-pages

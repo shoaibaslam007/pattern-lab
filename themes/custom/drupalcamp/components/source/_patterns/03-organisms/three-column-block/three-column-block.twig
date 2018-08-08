@@ -1,0 +1,14 @@
+<div class="col-md-4">
+  {% include "@atoms/03-image/image.twig"
+    with{
+      "image_url": image_url
+    }
+  %}
+  {% include "@molecules/text-heading/text-heading.twig"
+    with{
+      "heading": heading,
+      "paragraph_content": paragraph_content
+    }
+  %}
+</div>
+

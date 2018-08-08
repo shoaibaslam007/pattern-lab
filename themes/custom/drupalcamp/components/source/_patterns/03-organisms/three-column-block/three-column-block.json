@@ -1,0 +1,15 @@
+{
+  "events": [{
+    "image_url": "/images/event.png",
+    "heading": "Heading 01",
+    "paragraph_content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
+  },{
+    "image_url": "/images/event.png",
+    "heading": "Heading 02",
+    "paragraph_content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
+  },{
+    "image_url": "/images/event.png",
+    "heading": "Heading 03",
+    "paragraph_content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
+  }]
+}

@@ -1,0 +1,9 @@
+<?php
+
+function drupalcamp_preprocess_block(&$variables) {
+  //$variables;
+}
+
+function drupalcamp_preprocess_views_view_fields(&$variables){
+  $variables;
+}

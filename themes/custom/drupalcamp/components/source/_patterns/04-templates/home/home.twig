@@ -1,0 +1,14 @@
+{% include "@organisms/header/header.twig" %}
+{% include "@organisms/header-bottom/header-bottom.twig" %}
+{% include "@organisms/text-button-block/text-button-block.twig" %}
+<section class="speaker-wrap">
+  {% include "@organisms/two-column-text-image-block/two-column-text-image-block.twig" %}
+</section>
+<section class="events-wrap">
+{% include "@atoms/02-text/01-headings/heading.twig"
+  with{
+    "heading": "EVENTS"
+  }
+%}
+{% include "@organisms/three-column-block/three-column-block.twig" %}
+</section>
